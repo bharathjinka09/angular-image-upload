@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-image-upload"
+    }
+  },
+  "defaultProject": "angular-image-upload",
+  "cli": {
+    "analytics": false
+  }
 }
